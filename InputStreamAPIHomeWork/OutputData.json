@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sushkov.P.",
+    "subject": [
+      {
+        "name": "English Language",
+        "specialInfo": [
+          {
+            "date": "06.04.24",
+            "attendance": "+"
+          }
+        ],
+        "teacher": {
+          "initials": "Bibic.E.A."
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kim.D.",
+    "subject": [
+      {
+        "name": "PE",
+        "specialInfo": [
+          {
+            "date": "06.04.24",
+            "attendance": "-"
+          }
+        ],
+        "teacher": {
+          "initials": "Kurmaev.K."
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fairushin.T.",
+    "subject": [
+      {
+        "name": "Programming",
+        "specialInfo": [
+          {
+            "date": "08.04.24",
+            "attendance": "-"
+          }
+        ],
+        "teacher": {
+          "initials": "Abdurachmanov.A."
+        }
+      },
+      {
+        "name": "History",
+        "specialInfo": [
+          {
+            "date": "06.04.24",
+            "attendance": "-"
+          }
+        ],
+        "teacher": {
+          "initials": "Churunina.A."
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zabinskii.D.",
+    "subject": [
+      {
+        "name": "Programming ",
+        "specialInfo": [
+          {
+            "date": "06.04.24",
+            "attendance": "+"
+          }
+        ],
+        "teacher": {
+          "initials": "Tsivilskiy.I."
+        }
+      }
+    ]
+  }
+]
